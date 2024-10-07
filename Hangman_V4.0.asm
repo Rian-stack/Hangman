@@ -1,4 +1,4 @@
-; Author: Daniel Flores
+; Authors: Daniel, Flores, Rianne Papa, Ethan Vine, Cody Witty
 ; Class: CIS123 Assembly Language.
 ; File Name: Hangman_V3.2.asm
 ; Creation Date: 10/29/22
